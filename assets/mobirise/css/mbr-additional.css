@@ -1867,19 +1867,19 @@ body {
   background: #7fd9fc;
 }
 .cid-qVNypiuim7 .progress1 .progressbar-number:before {
-  content: '100';
-}
-.cid-qVNypiuim7 .progress2 .progressbar-number:before {
-  content: '90';
-}
-.cid-qVNypiuim7 .progress3 .progressbar-number:before {
   content: '80';
 }
+.cid-qVNypiuim7 .progress2 .progressbar-number:before {
+  content: '85';
+}
+.cid-qVNypiuim7 .progress3 .progressbar-number:before {
+  content: '85';
+}
 .cid-qVNypiuim7 .progress4 .progressbar-number:before {
-  content: '70';
+  content: '75';
 }
 .cid-qVNypiuim7 .progress5 .progressbar-number:before {
-  content: '60';
+  content: '70';
 }
 @media (min-width: 768px) {
   .cid-qVNypiuim7 .text-elements {
