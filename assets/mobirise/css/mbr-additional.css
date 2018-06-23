@@ -1793,7 +1793,7 @@ body {
 .cid-qVNwjSbvNm {
   padding-top: 45px;
   padding-bottom: 45px;
-  background: linear-gradient(45deg, #efefef, #ffffff);
+  background: linear-gradient(45deg, #f9f9f9, #f9f9f9);
 }
 .cid-qVNwjSbvNm H1 {
   text-align: center;
@@ -2008,5 +2008,93 @@ body {
   }
 }
 .cid-qVNGhgFx0Q .mbr-section-title {
+  color: #7fd9fc;
+}
+.cid-qVNKf5T4Wb {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-qVNKf5T4Wb .mbr-section-subtitle {
+  color: #767676;
+  text-align: left;
+}
+.cid-qVNKf5T4Wb .mbr-text {
+  color: #767676;
+}
+.cid-qVNKf5T4Wb .card {
+  display: flex;
+  position: relative;
+  justify-content: center;
+}
+.cid-qVNKf5T4Wb .card-wrapper {
+  height: 100%;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-qVNKf5T4Wb .card-wrapper .card-img {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.cid-qVNKf5T4Wb .card-wrapper .card-img .mbr-overlay {
+  background-color: #efefef;
+  display: none;
+  transition: opacity .3s;
+}
+.cid-qVNKf5T4Wb .card-wrapper .card-img .mbr-section-btn {
+  display: flex;
+  position: absolute;
+  transition: opacity .3s;
+  width: 100%;
+  margin: auto;
+  left: 0;
+  justify-content: center;
+  align-items: center;
+}
+.cid-qVNKf5T4Wb .card-wrapper .card-img img {
+  width: 100%;
+  height: 100%;
+}
+.cid-qVNKf5T4Wb .card-wrapper .card-box {
+  background-color: #ffffff;
+  padding: 0 2rem 2rem 2rem;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+.cid-qVNKf5T4Wb .card-wrapper .card-box h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  padding-top: 2rem;
+}
+.cid-qVNKf5T4Wb .card-wrapper .card-box p {
+  margin-bottom: 0;
+  padding-top: 1.5rem;
+}
+.cid-qVNKf5T4Wb .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+.cid-qVNKf5T4Wb .popup-btn .mbr-overlay {
+  display: block !important;
+  opacity: 0;
+}
+.cid-qVNKf5T4Wb .popup-btn .mbr-section-btn {
+  height: 100%;
+  display: flex !important;
+  opacity: 0;
+}
+.cid-qVNKf5T4Wb .popup-btn:hover .mbr-overlay {
+  opacity: .5;
+}
+.cid-qVNKf5T4Wb .popup-btn:hover .mbr-section-btn {
+  opacity: 1;
+}
+.cid-qVNKf5T4Wb .mbr-section-title {
   color: #7fd9fc;
 }
