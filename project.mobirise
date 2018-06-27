@@ -46,13 +46,14 @@
     "uniqCompNum": 30,
     "versionPublish": "4.7.8",
     "screenshot": "screenshot.png",
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n\n",
     "robotsSwitcher": "on",
-    "siteUrl": "",
+    "siteUrl": "http://chiragmakwana.in",
     "sitemapSwitcherAuto": "on",
     "favicon": "@PROJECT_PATH@/assets/images/slide1-128x56.png",
     "noImageResize": "",
-    "google-analytics": ""
+    "google-analytics": "",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
