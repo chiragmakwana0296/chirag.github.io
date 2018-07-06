@@ -1079,7 +1079,7 @@
           "_once": false,
           "_params": {
             "slides__autoplay": true,
-            "slides__autoplayInterval": "2000",
+            "slides__autoplayInterval": "5000",
             "slides__showBullets": true,
             "slides": [
               {
@@ -1101,7 +1101,7 @@
               },
               {
                 "image": "@THEME_PATH@/components/_images/carousel/2.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": false,
                 "showTitle": true,
@@ -1118,7 +1118,7 @@
               },
               {
                 "image": "@THEME_PATH@/components/_images/carousel/3.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": false,
                 "showTitle": true,
