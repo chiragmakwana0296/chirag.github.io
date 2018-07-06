@@ -2408,26 +2408,6 @@ body {
     -webkit-justify-content: center;
   }
 }
-.cid-qX1jaGRrii {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #f9f9f9;
-}
-.cid-qX1jaGRrii h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-}
-.cid-qX1jaGRrii p {
-  color: #767676;
-  text-align: left;
-}
-.cid-qX1jaGRrii .card-box {
-  padding-top: 2rem;
-}
-.cid-qX1jaGRrii .card-wrapper {
-  height: 100%;
-}
 .cid-qW7TH2hcDM {
   padding-top: 90px;
   padding-bottom: 15px;
@@ -3042,4 +3022,71 @@ body {
 .cid-qW7TpG0CK3 .mbr-text,
 .cid-qW7TpG0CK3 .mbr-section-btn {
   color: #073b4c;
+}
+.cid-qX1vA8l3Sr {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #2e2e2e;
+}
+@media (max-width: 767px) {
+  .cid-qX1vA8l3Sr .content {
+    text-align: center;
+  }
+  .cid-qX1vA8l3Sr .content > div:not(:last-child) {
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-qX1vA8l3Sr .media-wrap {
+    margin-bottom: 1rem;
+  }
+}
+.cid-qX1vA8l3Sr .media-wrap .mbr-iconfont-logo {
+  font-size: 7.5rem;
+  color: #f36;
+}
+.cid-qX1vA8l3Sr .media-wrap img {
+  height: 6rem;
+}
+@media (max-width: 767px) {
+  .cid-qX1vA8l3Sr .footer-lower .copyright {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-qX1vA8l3Sr .footer-lower hr {
+  margin: 1rem 0;
+  border-color: #fff;
+  opacity: .05;
+}
+.cid-qX1vA8l3Sr .footer-lower .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  -webkit-justify-content: flex-end;
+}
+.cid-qX1vA8l3Sr .footer-lower .social-list .mbr-iconfont-social {
+  font-size: 1.3rem;
+  color: #fff;
+}
+.cid-qX1vA8l3Sr .footer-lower .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-qX1vA8l3Sr .footer-lower .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-qX1vA8l3Sr .footer-lower .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-qX1vA8l3Sr .footer-lower .social-list {
+    justify-content: center;
+    -webkit-justify-content: center;
+  }
 }
